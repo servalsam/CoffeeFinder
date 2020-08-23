@@ -1,0 +1,75 @@
+.wrapper {
+    position:relative;
+}
+
+.card-body {
+    overflow: hidden;
+}
+
+.card-body img {
+    border-radius: 4px;
+    height: 100%;
+    width: auto;
+    margin-top: 4px;
+    display: block;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    background-color: #F5F5F5;
+    height: 3rem;
+    width: 100%;
+}
+
+.footer p {
+    margin-left: 16px;
+    margin-top: 12px;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+
+#coffee-pic {
+    height: 400px;
+    width: auto;
+}
+
+#inspire {
+    font-size: 36px;
+    font-family: "Brush Script MT", cursive, serif;
+}
+
+#need {
+    font-weight: bolder;
+}
+
+.animLoading {
+    display: none;
+    height: 32px;
+    width: 32px;
+}
+.heart {
+    float: left;
+    width: 32px;
+    height: 32px;
+}
+
+.navbar-brand {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.navbar-brand span {
+    float: left;
+}
+
+.title {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-left: 10px;
+    font-weight: bold;
+}

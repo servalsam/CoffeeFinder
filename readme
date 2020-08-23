@@ -1,0 +1,11 @@
+Author: Samuel Wainright
+Latest Revision Date: 7/19/2020
+Interface Name: I Love Coffee, Coffee API
+
+Description: The Coffee Finder tab utilizes Google Maps and Google Places to find nearby
+coffee shops. The Coffee Pic tab utilizes an open-source Github API to display random
+coffee images.
+
+APIs used (endpoints)
+Google Maps & Places: https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places&callback=initMap
+Coffee API: https://coffee.alexflipnote.dev/, https://github.com/AlexFlipnote/CoffeeAPI
